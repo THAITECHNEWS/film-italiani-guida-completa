@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://THAITECHNEWS.github.io/film-italiani-guida-completa/sitemap.xml
